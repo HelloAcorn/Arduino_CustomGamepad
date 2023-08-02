@@ -11,8 +11,6 @@ Arduino 환경에서 비트 연산자만을 이용하여 게임패드 구현
 https://github.com/ilovegalio/Arduino_CustomGamepad/assets/77008882/0dbf33ae-8230-44fa-bb71-847a148c54a5
 
 
-
-
 # 개발 환경
 ![image](https://github.com/ilovegalio/Arduino_CustomGamepad/assets/77008882/050ebd9b-4e58-431f-b635-1fe79073f755)
 ![image](https://github.com/ilovegalio/Arduino_CustomGamepad/assets/77008882/ef9ea0e5-bc66-47cd-8324-8904cd734f6f)
